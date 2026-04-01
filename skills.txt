@@ -1,0 +1,113 @@
+# Programming Languages
+python
+java
+c
+c++
+c#
+javascript
+typescript
+go
+rust
+kotlin
+swift
+
+# Web Development
+html
+css
+react
+angular
+vue
+node
+express
+django
+flask
+spring
+spring boot
+bootstrap
+tailwind
+full stack
+frontend
+backend
+
+# Databases
+sql
+mysql
+postgresql
+mongodb
+firebase
+oracle
+sqlite
+redis
+
+# Data Science & AI
+machine learning
+deep learning
+data science
+nlp
+computer vision
+artificial intelligence
+pandas
+numpy
+matplotlib
+seaborn
+scikit learn
+tensorflow
+keras
+pytorch
+xgboost
+opencv
+
+# Cloud & DevOps
+aws
+azure
+gcp
+docker
+kubernetes
+jenkins
+git
+github
+gitlab
+ci cd
+linux
+bash
+shell scripting
+
+# Data Engineering
+hadoop
+spark
+kafka
+etl
+data warehouse
+
+# Software Engineering Concepts
+data structures
+algorithms
+oop
+object oriented programming
+system design
+api
+rest api
+microservices
+
+# Testing
+unit testing
+selenium
+pytest
+junit
+
+# Mobile Development
+android
+ios
+react native
+flutter
+
+# Cybersecurity
+network security
+cryptography
+penetration testing
+ethical hacking
+
+# Others
+excel
+power bi
+tableau
